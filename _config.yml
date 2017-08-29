@@ -68,7 +68,16 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+- type: git
   repository:
     coding: https://mizou:Sl990825.@git.coding.net/mizou/mizou.git
   branch: master
+- type: ftpsync
+  host: 158.69.159.82
+  user: inswordc
+  pass: sl990825.
+  remote: /wwwroot
+  port:
+  ignore: .DS_Store
+  connections:
+  verbost: true
