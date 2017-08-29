@@ -7,6 +7,7 @@ categories:
 tags: 
 - hacker
 - life
+password: sleen
 ---
 
 读了一片如何成为一名黑客的文章，觉得对技术学习用帮助，把一些内容摘录在这里。原文译文在下面的链接。

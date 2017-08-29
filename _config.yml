@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Sleen's World
-subtitle: Fake World, Fake People.
+title: Instant
+subtitle: instant bb forever
 description:
 author: sleen
 language: zh-Hans
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://sleen.ren
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -72,4 +72,3 @@ deploy:
   repository:
     coding: https://mizou:Sl990825.@git.coding.net/mizou/mizou.git
   branch: master
-
