@@ -1,10 +1,12 @@
 ---
-title: August-some
+title: 自控力和习惯
 date: 2017-08-31 17:23:05
 tags: idea
 password: xiu
 ---
 
+关于如何培养自控力和习惯
+<!-- more -->
 # 自控力和习惯
 
 #### 自控力
