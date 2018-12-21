@@ -6,13 +6,13 @@
 title: Instant
 subtitle: instant bb forever
 description:
-author: sleen
+author: xiusl
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://sleen.ren
+url: http://xiusl.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -70,6 +70,6 @@ theme: next
 deploy:
 - type: git
   repository:
-    coding: https://mizou:Sl990825.@git.coding.net/mizou/mizou.git
+  coding: git@gitgub.com:xiusl/xiusl.github.io.git
   branch: master
 
