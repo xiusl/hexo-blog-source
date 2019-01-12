@@ -21,7 +21,7 @@ install:
 - npm install --save hexo-deployer-git
 - npm install
 before_script:
-- git clone https://git.coding.net/mizou/hexo-next-xiuxiu.git -o themes/next
+- git clone https://git.coding.net/mizou/hexo-next-xiuxiu.git themes/next
 script:
 - hexo clean && hexo g
 - hexo deploy
