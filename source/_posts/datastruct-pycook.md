@@ -9,7 +9,7 @@ tags:
 - datastruct
 ---
 python cookbook datastruct
-<!--readmore-->
+<!--more-->
 
 - 解压序列赋值给多个变量
   - 变量的个数和序列元素的个数不匹配
