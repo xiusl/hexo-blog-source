@@ -36,3 +36,7 @@ iOS 中三种回调的特点、区别和使用场景的总结。
 
 - 通过不同执行线（一对一，一对多）、不同的执行次数、不同的执行数量来判断使用哪一种回调。
 
+#### 参考
+
+> https://www.zhihu.com/question/29023547
+> https://blog.csdn.net/u010670946/article/details/71340711
