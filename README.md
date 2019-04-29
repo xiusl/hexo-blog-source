@@ -1,4 +1,6 @@
-# hexo blog source
+# hexo blog source  
+
+[![Build Status](https://travis-ci.com/xiusl/hexo-blog-source.svg?branch=master)](https://travis-ci.com/xiusl/hexo-blog-source)
 
 - hexo 博客的源文件
 
