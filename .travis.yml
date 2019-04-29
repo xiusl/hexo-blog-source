@@ -13,7 +13,7 @@ before_install:
   - mv blog_ci ~/.ssh/blog_ci
   - chmod 600 ~/.ssh/blog_ci
   - eval $(ssh-agent)
-  - ssh-add ~/.ssh/blog_ci
+  - ssh-add -K ~/.ssh/blog_ci
   - cp ssh_config ~/.ssh/config
 install:
   - npm install hexo-cli -g
