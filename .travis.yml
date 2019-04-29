@@ -9,8 +9,7 @@ branches:
   only:
   - master
 before_install:
-- openssl aes-256-cbc -K $encrypted_6859d816ed57_key -iv $encrypted_6859d816ed57_iv
-  -in blog_ci.enc -out blog_ci -d
+- openssl aes-256-cbc -K $encrypted_e879b6f1a992_key -iv $encrypted_e879b6f1a992_iv -in blog_ci.enc -out blog_ci -d
 - mv blog_ci ~/.ssh/blog_ci
 - chmod 600 ~/.ssh/blog_ci
 - eval $(ssh-agent)
