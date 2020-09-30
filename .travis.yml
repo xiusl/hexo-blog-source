@@ -22,7 +22,8 @@ install:
 before_script:
   - git clone https://mizou:$mzpasswd@e.coding.net/likeer/hexo-next-xiuxiu/hexo-next-xiuxiu.git
 script:
-  - hexo clean && hexo g
+  - hexo clean
+  - hexo g
   - hexo deploy
 
 
